@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(226, 216, 216);
+}
+
+h1 {
+  color: rgb(168, 136, 136);
+}
+
+img:hover {
+  background-color: black;
+}
+
+.bacon {
+  background-color: aquamarine;
+  height: 200px;
+  width: 200px;
+}
+
+.broccoli {
+  background-color: brown;
+  height: 200px;
+  width: 200px;
+}
+
+#big {
+  color: blue;
+  font-size: 50px;
+}
